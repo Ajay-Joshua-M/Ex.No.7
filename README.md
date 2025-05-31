@@ -1,16 +1,22 @@
-# Exno.7-Develop a prompt-based application tailored to their personal needs, fostering creativity and practical problem-solving skills while leveraging the capabilities of large language models.
+# Experiment - 7: Develop a prompt-based application tailored to their personal needs, fostering creativity and practical problem-solving skills while leveraging the capabilities of large language models.
 
-# Date:
-# Register no.
-# Aim: To develop a prompt-based application using ChatGPT - To demonstrate how to create a prompt-based application to organize daily tasks, showing the progression from simple to more advanced prompt designs and their corresponding outputs.
+### Register No.: 212222080004
+### Date: 25.04.2025
 
-#AI Tools Required: 
+## Aim: 
+To develop a prompt-based application using ChatGPT - To demonstrate how to create a prompt-based application to organize daily tasks, showing the progression from simple to more advanced prompt designs and their corresponding outputs.
 
+## AI Tools Required:
+•	Text Assistance: ChatGPT, Claude, DeepSeek
 
-# Explanation: 
-Prompt:
+•	Video Generation: Runway
+
+•	Image Generation: Midjourney
+
+## Explanation: 
+### Prompt:
 "Design a personal productivity assistant that can help manage daily tasks, schedule reminders, suggest wellness tips, and answer general queries. The assistant should interact using natural language and be adaptable to the user’s changing preferences over time."
-Procedure:
+### Procedure:
 1. Define the core requirements of a personal productivity assistant.
 2. Identify and construct appropriate prompts for each task using an LLM (e.g., ChatGPT).
 3. Simulate natural user interaction through a simple interface or command-line system.
@@ -30,9 +36,7 @@ o Notify user of overlapping appointments or free time slots.
 o Suggest daily wellness advice (hydration, exercise, screen-time breaks).
 o Adapt suggestions based on past user preferences and responses.
 
-
-
-# Result: 
+### Result: 
 The lab exercise resulted in the creation of a prototype concept for a personal assistant powered by large language models. Students were able to:
  Understand how to tailor LLM prompts to real-life applications.
  Foster creativity by designing features suited to their personal or academic lives.
